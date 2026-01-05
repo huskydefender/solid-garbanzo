@@ -25,6 +25,8 @@ but I was hoping Lance would bring in Dialga and kill the Lele next turn. I woul
 
 # Team
 
+# Team
+
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
   <div style="flex: 0 0 80px;">
     <img src="https://pokepast.es/img/pokemon/641-0.png" alt="Tornadus" style="width: 80px;">
@@ -66,6 +68,7 @@ but I was hoping Lance would bring in Dialga and kill the Lele next turn. I woul
     • Dragon Dance<br>• Protect<br>• Close Combat<br>• Crunch
   </div>
 </div>
+
 
 # Next
 I don't think I'll do a randomized run for a while. If I cant beat this with a Parental Bond Mewtwo early on (Route 5 I think), I need some practice. 
