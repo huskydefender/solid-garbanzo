@@ -18,9 +18,7 @@ but I was hoping Lance would bring in Dialga and kill the Lele next turn. I woul
 
 
 # Team
-Tornadus - Pixillate - Pixie Plate - Brave (to slow u-turn the Tapu Lele)
-Mewtwo - Parental Bond - Leftovers - Modest
-Scrafty - Choice Scarf - Orichalcum Pulse - Adamant
+<iframe src="https://pokepast.es/0d67ded8fdbab266"></iframe>
 
 # Next
 I don't think I'll do a randomized run for a while. If I cant beat this with a Parental Bond Mewtwo early on (Route 5 I think), I need some practice. 
