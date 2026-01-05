@@ -66,8 +66,8 @@ console.log('| Pokémon | Item | Ability | Nature | Moves |');
 console.log('|---|---|---|---|---|');
 team.forEach(p => {
   const spriteCell = p.sprite ? `![](${p.sprite}) ` : '';
-  // Render moves as an HTML unordered list so the Markdown table cell shows bullets
-  const movesCell = p.moves.length ? `<ul>${p.moves.map(m => `<li>${m}</li>`).join('')}</ul>` : '—';
+  // Render moves with bullets on each line
+  const movesCell = p.moves.length ? '• ' + p.moves.join('<br> • ') : '—';
   console.log(`| ${spriteCell}**${p.name}** | ${p.item} | ${p.ability} | ${p.nature} | ${movesCell} |`);
 });
 
