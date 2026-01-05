@@ -6,7 +6,7 @@ nav_order: 1
 ---
 # Overview
 Finished - 2026-01-04
-This isn't run 1, just the first one I'm tracking this way. 
+This isn't really my first run, just the first one I'm tracking this way. 
 
 # Outcome - Lost at Gio 3
 This was a randomized run, but by far my best yet and should have made E4. 
