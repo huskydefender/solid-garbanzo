@@ -1,3 +1,8 @@
+---
+type: recap
+team: https://pokepast.es/e1b4e85d9464a34c
+title: Run 1 - Randomized
+---
 # Overview
 Finished - 2026-01-04
 This isn't really run 1, just the first one I'm tracking this way. 
