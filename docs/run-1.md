@@ -2,6 +2,7 @@
 type: recap
 team: https://pokepast.es/e1b4e85d9464a34c
 title: Run 1 - Randomized
+nav_order: 1
 ---
 # Overview
 Finished - 2026-01-04
