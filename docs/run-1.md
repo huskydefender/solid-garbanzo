@@ -18,7 +18,7 @@ but I was hoping Lance would bring in Dialga and kill the Lele next turn. I woul
 
 
 # Team
-<iframe src="../embeds/run-1.html"></iframe>
+<iframe src="./embeds/run-1.html"></iframe>
 
 # Next
 I don't think I'll do a randomized run for a while. If I cant beat this with a Parental Bond Mewtwo early on (Route 5 I think), I need some practice. 
