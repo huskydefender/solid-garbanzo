@@ -18,8 +18,11 @@ but I was hoping Lance would bring in Dialga and kill the Lele next turn. I woul
 
 
 # Team
-<iframe src="./embeds/run-1.html"></iframe>
-
+| Pokémon | Item | Ability | Nature | Moves |
+|---|---|---|---|---|
+| ![](https://pokepast.es/img/pokemon/641-0.png) **Tornadus** | Pixie Plate | Pixillate | Brave | <ul><li>Return</li><li>U-turn</li><li>Bleakwind Storm</li><li>Protect</li></ul> |
+| ![](https://pokepast.es/img/pokemon/150-0.png) **Mewtwo** | Leftovers | Parental Bond | Modest | <ul><li>Protect</li><li>Psychic</li><li>Flamethrower</li><li>Energy Ball</li></ul> |
+| ![](https://pokepast.es/img/pokemon/560-0.png) **Scrafty** | Choice Scarf | Orichalcum Pulse | Adamant | <ul><li>Dragon Dance</li><li>Protect</li><li>Close Combat</li><li>Crunch</li></ul> |
 # Next
 I don't think I'll do a randomized run for a while. If I cant beat this with a Parental Bond Mewtwo early on (Route 5 I think), I need some practice. 
 
