@@ -1,5 +1,8 @@
 name: Update Recap Teams from Pokepaste
 
+permissions:
+  contents: write
+
 on:
   push:
     paths:
@@ -13,21 +16,28 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-      
+
       - name: Update recap teams
         run: node scripts/update-recap-teams.js
-      
+
       - name: Commit changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: update recap team data from pokepaste"
-      
+
       - name: Push changes
-        run: git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: git push origin "HEAD:main"
