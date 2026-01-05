@@ -62,13 +62,25 @@ if (blocks.length !== sprites.length) {
 }
 
 // Render horizontal table: one row per Pokémon, read left-to-right across columns
-console.log('| Pokémon | Item | Ability | Nature | Moves |');
-console.log('|---|---|---|---|---|');
+// Render horizontal table: one row per Pokémon, read left-to-right across columns
+console.log('# Team\n');
 team.forEach(p => {
-  const spriteCell = p.sprite ? `![](${p.sprite}) ` : '';
-  // Render moves with bullets on each line
-  const movesCell = p.moves.length ? '• ' + p.moves.join('<br> • ') : '—';
-  console.log(`| ${spriteCell}**${p.name}** | ${p.item} | ${p.ability} | ${p.nature} | ${movesCell} |`);
+  const spriteCell = p.sprite ? `<img src="${p.sprite}" alt="${p.name}" style="width: 80px;">` : '';
+  const movesCell = p.moves.map(m => `• ${m}`).join('<br>');
+  
+  console.log(`<div style="display: flex; gap: 20px; margin-bottom: 20px;">`);
+  console.log(`  <div style="flex: 0 0 80px;">`);
+  console.log(`    ${spriteCell}`);
+  console.log(`  </div>`);
+  console.log(`  <div style="flex: 1;">`);
+  console.log(`    <strong>${p.name}</strong><br>`);
+  console.log(`    <em>Item:</em> ${p.item}<br>`);
+  console.log(`    <em>Ability:</em> ${p.ability} | <em>Nature:</em> ${p.nature}`);
+  console.log(`  </div>`);
+  console.log(`  <div style="flex: 1;">`);
+  console.log(`    ${movesCell}`);
+  console.log(`  </div>`);
+  console.log(`</div>\n`);
 });
 
 console.log();
