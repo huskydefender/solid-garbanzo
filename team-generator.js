@@ -62,8 +62,6 @@ if (blocks.length !== sprites.length) {
 }
 
 // Render horizontal table: one row per Pokémon, read left-to-right across columns
-// Render horizontal table: one row per Pokémon, read left-to-right across columns
-console.log('# Team\n');
 team.forEach(p => {
   const spriteCell = p.sprite ? `<img src="${p.sprite}" alt="${p.name}" style="width: 80px;">` : '';
   const movesCell = p.moves.map(m => `• ${m}`).join('<br>');
