@@ -25,6 +25,49 @@ but I was hoping Lance would bring in Dialga and kill the Lele next turn. I woul
 
 # Team
 
+<div style="display: flex; gap: 20px; margin-bottom: 20px;">
+  <div style="flex: 0 0 80px;">
+    <img src="https://pokepast.es/img/pokemon/641-0.png" alt="Tornadus" style="width: 80px;">
+  </div>
+  <div style="flex: 1;">
+    <strong>Tornadus</strong><br>
+    <em>Item:</em> Pixie Plate<br>
+    <em>Ability:</em> Pixillate | <em>Nature:</em> Brave
+  </div>
+  <div style="flex: 1;">
+    • Return<br>• U-turn<br>• Bleakwind Storm<br>• Protect
+  </div>
+</div>
+
+<div style="display: flex; gap: 20px; margin-bottom: 20px;">
+  <div style="flex: 0 0 80px;">
+    <img src="https://pokepast.es/img/pokemon/150-0.png" alt="Shady (Mewtwo)" style="width: 80px;">
+  </div>
+  <div style="flex: 1;">
+    <strong>Shady (Mewtwo)</strong><br>
+    <em>Item:</em> Leftovers<br>
+    <em>Ability:</em> Parental Bond | <em>Nature:</em> Modest
+  </div>
+  <div style="flex: 1;">
+    • Protect<br>• Psychic<br>• Flamethrower<br>• Energy Ball
+  </div>
+</div>
+
+<div style="display: flex; gap: 20px; margin-bottom: 20px;">
+  <div style="flex: 0 0 80px;">
+    <img src="https://pokepast.es/img/pokemon/560-0.png" alt="Kylie (Scrafty)" style="width: 80px;">
+  </div>
+  <div style="flex: 1;">
+    <strong>Kylie (Scrafty)</strong><br>
+    <em>Item:</em> Choice Scarf<br>
+    <em>Ability:</em> Orichalcum Pulse | <em>Nature:</em> Adamant
+  </div>
+  <div style="flex: 1;">
+    • Dragon Dance<br>• Protect<br>• Close Combat<br>• Crunch
+  </div>
+</div>
+
+
 # Team
 
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
