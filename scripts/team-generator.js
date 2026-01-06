@@ -15,7 +15,6 @@ const [html, raw] = await Promise.all([
 ]);
 
 // 2. Extract sprite URLs in order
-// PokéPaste sprites look like: <img src="https://play.pokemonshowdown.com/sprites/...">
 const spriteRegex = /<img[^>]+src="([^"]+pokemon[^"]+)"[^>]*>/g;
 const sprites = [...html.matchAll(spriteRegex)].map(m => m[1]);
 

@@ -37,7 +37,7 @@ function findNextSection(body, startPos) {
 
 async function generateTeam(pokePasteUrl) {
   try {
-    const output = execSync(`node ${path.join(__dirname, '../team-generator.js')} "${pokePasteUrl}"`, {
+    const output = execSync(`node ${path.join(__dirname, 'team-generator.js')} "${pokePasteUrl}"`, {
       encoding: 'utf-8',
       timeout: 30000
     });
