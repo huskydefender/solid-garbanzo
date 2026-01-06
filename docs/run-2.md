@@ -8,7 +8,6 @@ nav_order: 2
 # Overview
 - Where did it start?
 - Any non-standard rules?
-<!-- - [Link to recap](run-2.md) -->
 
 ## Progress Tracker
 |            Split | Status |
