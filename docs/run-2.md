@@ -11,7 +11,7 @@ nav_order: 2
 
 ## Progress Tracker
 |            Split | Status |
-| ---------------: | :----: |
+| ---------------- | ------ |
 |            Brock |   ✅    |
 |            Misty |   ✅    |
 |            Surge |   ✅    |
@@ -31,7 +31,7 @@ nav_order: 2
 
 ## Full Encounter List
 | **Location**     | **Encounter**   |    **Split**     |
-| ---------------- | --------------- | :--------------: |
+| ---------------- | --------------- | ---------------- |
 | Starter          | Chikorita       |      Brock       |
 | Route 21         | Wooper - H      |      Brock       |
 | Pallet Town      | Larvesta*       |      Surge       |
@@ -87,7 +87,7 @@ nav_order: 2
 ## 2026-01-05
 ### Notable Encounters
 - No Jellicent this time, Staryu and Bruxish instead. I don't think I've ever made it past Sabrina with no Jellicent.
-  
+
 ### Notable Fights
 #### Surge
 | **Mine**     | **Counters**                          |

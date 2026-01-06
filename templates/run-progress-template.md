@@ -1,5 +1,4 @@
 ---
----
 type: progress
 title: Run X Journal - Standard
 nav_order: X
