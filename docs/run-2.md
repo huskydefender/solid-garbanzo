@@ -4,6 +4,7 @@ title: Run 2 Journal - Standard
 nav_order: 2
 ---
 
+
 # Overview
 - Where did it start?
 - Any non-standard rules?
