@@ -10,6 +10,7 @@ nav_order: 2
 - Any non-standard rules?
 
 ## Progress Tracker
+
 |            Split | Status |
 | ---------------- | ------ |
 |            Brock |   ✅    |
@@ -30,6 +31,7 @@ nav_order: 2
 
 
 ## Full Encounter List
+
 | **Location**     | **Encounter**   |    **Split**     |
 | ---------------- | --------------- | ---------------- |
 | Starter          | Chikorita       |      Brock       |
@@ -90,6 +92,7 @@ nav_order: 2
 
 ### Notable Fights
 #### Surge
+
 | **Mine**     | **Counters**                          |
 | ------------ | ------------------------------------- |
 | Arcanine - H | Vikavolt                              |
@@ -104,6 +107,7 @@ nav_order: 2
 - Not as clean as I'd like. Got a random Mud Shot on Meganium for some reason, maybe priority for Speed Control?
 
 #### Erika
+
 | **Mine**    | **Counters**  |
 | ----------- | ------------- |
 | Swellow     | Venusaur      |
