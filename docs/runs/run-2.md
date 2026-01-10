@@ -140,7 +140,10 @@
 ### 2026-01-09
 #### Notable Encounters
 
+- None
+  
 #### Rocket Hideout Double 2
+
 - Easiest sweep of this. Solo'd with Starmie and Perrserker. Not even worth discussing.
 
 #### Rocket Hideout Double 3
