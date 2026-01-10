@@ -121,7 +121,7 @@
 ### 2026-01-07
 #### Notable Encounters
 - Sizzlipede - Sevii (Rocket Hideout)
-##### Rocket Hideout Double 1
+#### Rocket Hideout Double 1
 
 | **Mine**    | **Role**                    |
 | ----------- | --------------------------- |
@@ -136,3 +136,11 @@
 - I consistently don't plan this fight well. I always seem to underestimate the Obstagoon.
 - I lost Granbull to a Facade, although even if I didn't, the Granbull would have doubled it.
 - Pivoting around in this fight is just asking for it. I did handle the Dark Void/Unnerve appropriately, and still wasn't paying attention to the Obstagoon STAB/Guts Facade. Not sure why I don't bring a Ghost to handle these. This is not one of those fights to rush the prep on, really need to think it through. I think I'm done for today.
+
+### 2026-01-09
+#### Notable Encounters
+
+#### Rocket Hideout Double 2
+
+
+#### Rocket Hideout Double 3

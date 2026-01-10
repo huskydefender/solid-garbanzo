@@ -12,4 +12,6 @@ logs/
 *.log
 .python-version
 ./site/*
-./cache/*
+.cache
+site/
+.venv
