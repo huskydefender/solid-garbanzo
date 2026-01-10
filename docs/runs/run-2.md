@@ -10,7 +10,7 @@
 | Misty            | ✅      |
 | Surge            | ✅      |
 | Erika            | ✅      |
-| Gio 1            | ❌      |
+| Gio 1            | ✅      |
 | Gio 2            | ❌      |
 | Sabrina          | ❌      |
 | Rematches        | ❌      |
