@@ -163,3 +163,7 @@
 - Raichu isn't such a bad loss because I have a lot of Fake Out mons and Heliolisk to be a fast Electric type. However, Golisopod is a big loss. I do have Falinks for First Impression, but it's still rough.
 
 Anyways. On to the Angry Ghost. Plan is for Donphan/Sturdy Knock Off -> Gyarados with Aqua Fang/Intimidate. It's worked before.
+
+
+### 2026-01-10
+#### Angry Ghost
