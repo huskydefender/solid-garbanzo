@@ -1,1 +1,15 @@
 .DS_Store
+.idea/*
+uv.lock
+main.py
+__pycache__/
+*.pyc
+.env
+.env.*
+.vscode/*
+!.vscode/settings.json
+logs/
+*.log
+.python-version
+./site/*
+./cache/*

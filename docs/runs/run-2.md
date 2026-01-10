@@ -1,13 +1,6 @@
----
-type: progress
-title: Run 2 Journal - Standard
-nav_order: 2
----
 
-
-# Overview
-- Where did it start?
-- Any non-standard rules?
+# Run 2
+🟢 Active
 
 ## Progress Tracker
 
@@ -84,14 +77,14 @@ nav_order: 2
 | Cerulean Cave    |                 | Clair            |
 | Victory Road     |                 | E4               |
 
-# Progress Log
+## Progress Log
 
-## 2026-01-05
-### Notable Encounters
+### 2026-01-05
+####  Notable Encounters
 - No Jellicent this time, Staryu and Bruxish instead. I don't think I've ever made it past Sabrina with no Jellicent.
 
-### Notable Fights
-#### Surge
+#### Notable Fights
+##### Surge
 
 | **Mine**     | **Counters**                          |
 | ------------ | ------------------------------------- |
@@ -106,7 +99,7 @@ nav_order: 2
 
 - Not as clean as I'd like. Got a random Mud Shot on Meganium for some reason, maybe priority for Speed Control?
 
-#### Erika
+##### Erika
 
 | **Mine**    | **Counters**  |
 | ----------- | ------------- |
@@ -120,15 +113,15 @@ nav_order: 2
 - That worked pretty well. Erika is also pretty switch happy. I thought about setting Swellow up with an Agility on Rillaboom to try to sweep, but it doesn't have the juice. So I went Aerialate/Return rather than Guts/Facade. 
 - Closest call was Swellow and Venusaur. Sludge Bomb brought me down to 12. Would have been fine as long as it didn't crit. I got it in on Golisopod Emergency Exit. First Return hit about 70%. It really should have done more, I'm not 100% sure what happened there.
 
-### Things I learned
+#### Things I learned
 - Got lucky with the crits on Venusaur. 
 - Regenerator on Slowbro - G is *great*.
 - On to the Hypno Double!
 
-## 2026-01-07
-### Notable Encounters
+### 2026-01-07
+#### Notable Encounters
 - Sizzlipede - Sevii (Rocket Hideout)
-#### Rocket Hideout Double 1
+##### Rocket Hideout Double 1
 
 | **Mine**    | **Role**                    |
 | ----------- | --------------------------- |
@@ -139,7 +132,7 @@ nav_order: 2
 | Granbull    | Obstagoon/Granbull/Typing   |
 | Meganium    | Typing/Triage/Fighting/Dark |
 
-### Things I learned
+#### Things I learned
 - I consistently don't plan this fight well. I always seem to underestimate the Obstagoon.
 - I lost Granbull to a Facade, although even if I didn't, the Granbull would have doubled it.
 - Pivoting around in this fight is just asking for it. I did handle the Dark Void/Unnerve appropriately, and still wasn't paying attention to the Obstagoon STAB/Guts Facade. Not sure why I don't bring a Ghost to handle these. This is not one of those fights to rush the prep on, really need to think it through. I think I'm done for today.
