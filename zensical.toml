@@ -311,7 +311,3 @@ toggle.name = "Switch to system preference"
 #[[project.extra.social]]
 #icon = "fontawesome/brands/github"
 #link = "https://github.com/user/repo"
-
-[project.markdown_extensions.tables]
-[project.markdown_extensions.toc]
-toc_depth = 3
