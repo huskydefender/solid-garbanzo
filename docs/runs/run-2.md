@@ -1,6 +1,6 @@
 
-# Run 2
-🟢 Active
+# 🟢 Run 2
+
 
 ## Progress Tracker
 
@@ -159,6 +159,7 @@
 | Golisopod   | Veluza              |
 | Azumarill   | Infernape           |
 | Falinks     | Kangaskhan          |
+
 - Really screwed the pooch on this one. Misjudged a roll on Orthworm and let Infernape get behind a sub. My plan for Infernape was Azumarill, but I swapped in on a Pyro Ball and got burned. I'd have been fine if I had a Rawst berry. Then Aqua Tail + Aqua Jet didn't kill and it SD'd. I thought it'd go for Close Combat because I had a Wacan berry, but it went for Thunder Punch and killed Golisopod on the switch in. Then I went to Starmie, and swapped to Raichu to get a Fake Out/Thunderclap. For some reason, it hit a Close Combat instead of Thunder Punch and Raichu died.
 - Raichu isn't such a bad loss because I have a lot of Fake Out mons and Heliolisk to be a fast Electric type. However, Golisopod is a big loss. I do have Falinks for First Impression, but it's still rough.
 

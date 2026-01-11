@@ -1,6 +1,6 @@
-# Run 1
+# 🏁 Run 1
 
-🏁 Finished - 2026-01-04
+Finished - 2026-01-04
 
 This isn't really my first run, just the first one I'm tracking this way. 
 
