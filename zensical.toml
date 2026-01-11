@@ -10,11 +10,13 @@ variant = "classic"
 language = "en"
 features = [
     "announce.dismiss",
+
     "content.code.annotate",
     "content.code.copy",
     "content.code.select",
     "content.footnote.tooltips",
     "content.tabs.link",
+
     "navigation.footer",
     "navigation.indexes",
     "navigation.instant",
@@ -23,7 +25,11 @@ features = [
     "navigation.sections",
     "navigation.top",
     "navigation.tracking",
+    "navigation.tabs",
+    "navigation.tabs.sticky",
+
     "search.highlight",
+
     "toc.follow",
 ]
 
