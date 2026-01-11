@@ -79,6 +79,58 @@
 
 ## Progress Log
 
+### 2026-01-10
+#### Angry Ghost
+
+### 2026-01-09
+#### Notable Encounters
+
+- None
+  
+#### Rocket Hideout Double 2
+
+- Easiest sweep of this. Solo'd with Starmie and Perrserker. Not even worth discussing.
+
+#### Rocket Hideout Double 3
+- Probably one of my easiest runs of this too. Led with Raichu and Incineroar. Fake Out and kill Talonflame with Volt Switch.
+- Then just pivoted around and Faked Out and soaked damage/Thunderbolts with Clodsire.
+
+#### Gio 1
+| **Mine**    | **Role**            |
+| ----------- | ------------------- |
+| Starmie     | Nidoking            |
+| Raichu      | Honchkrow           |
+| Marowak - A | Kangaskhan/Orthworm |
+| Golisopod   | Veluza              |
+| Azumarill   | Infernape           |
+| Falinks     | Kangaskhan          |
+
+- Really screwed the pooch on this one. Misjudged a roll on Orthworm and let Infernape get behind a sub. My plan for Infernape was Azumarill, but I swapped in on a Pyro Ball and got burned. I'd have been fine if I had a Rawst berry. Then Aqua Tail + Aqua Jet didn't kill and it SD'd. I thought it'd go for Close Combat because I had a Wacan berry, but it went for Thunder Punch and killed Golisopod on the switch in. Then I went to Starmie, and swapped to Raichu to get a Fake Out/Thunderclap. For some reason, it hit a Close Combat instead of Thunder Punch and Raichu died.
+- Raichu isn't such a bad loss because I have a lot of Fake Out mons and Heliolisk to be a fast Electric type. However, Golisopod is a big loss. I do have Falinks for First Impression, but it's still rough.
+
+Anyways. On to the Angry Ghost. Plan is for Donphan/Sturdy Knock Off -> Gyarados with Aqua Fang/Intimidate. It's worked before.
+
+### 2026-01-07
+#### Notable Encounters
+- Sizzlipede - Sevii (Rocket Hideout)
+#### Rocket Hideout Double 1
+
+| **Mine**    | **Role**                    |
+| ----------- | --------------------------- |
+| Incineroar  | Hypno/Fake Out              |
+| Raichu      | Aerodactyl                  |
+| Slowbro - G | Granbull                    |
+| Golisopod   | Obstagoon                   |
+| Granbull    | Obstagoon/Granbull/Typing   |
+| Meganium    | Typing/Triage/Fighting/Dark |
+
+#### Things I learned
+- I consistently don't plan this fight well. I always seem to underestimate the Obstagoon.
+- I lost Granbull to a Facade, although even if I didn't, the Granbull would have doubled it.
+- Pivoting around in this fight is just asking for it. I did handle the Dark Void/Unnerve appropriately, and still wasn't paying attention to the Obstagoon STAB/Guts Facade. Not sure why I don't bring a Ghost to handle these. This is not one of those fights to rush the prep on, really need to think it through. I think I'm done for today.
+
+
+
 ### 2026-01-05
 ####  Notable Encounters
 - No Jellicent this time, Staryu and Bruxish instead. I don't think I've ever made it past Sabrina with no Jellicent.
@@ -118,53 +170,3 @@
 - Regenerator on Slowbro - G is *great*.
 - On to the Hypno Double!
 
-### 2026-01-07
-#### Notable Encounters
-- Sizzlipede - Sevii (Rocket Hideout)
-#### Rocket Hideout Double 1
-
-| **Mine**    | **Role**                    |
-| ----------- | --------------------------- |
-| Incineroar  | Hypno/Fake Out              |
-| Raichu      | Aerodactyl                  |
-| Slowbro - G | Granbull                    |
-| Golisopod   | Obstagoon                   |
-| Granbull    | Obstagoon/Granbull/Typing   |
-| Meganium    | Typing/Triage/Fighting/Dark |
-
-#### Things I learned
-- I consistently don't plan this fight well. I always seem to underestimate the Obstagoon.
-- I lost Granbull to a Facade, although even if I didn't, the Granbull would have doubled it.
-- Pivoting around in this fight is just asking for it. I did handle the Dark Void/Unnerve appropriately, and still wasn't paying attention to the Obstagoon STAB/Guts Facade. Not sure why I don't bring a Ghost to handle these. This is not one of those fights to rush the prep on, really need to think it through. I think I'm done for today.
-
-### 2026-01-09
-#### Notable Encounters
-
-- None
-  
-#### Rocket Hideout Double 2
-
-- Easiest sweep of this. Solo'd with Starmie and Perrserker. Not even worth discussing.
-
-#### Rocket Hideout Double 3
-- Probably one of my easiest runs of this too. Led with Raichu and Incineroar. Fake Out and kill Talonflame with Volt Switch.
-- Then just pivoted around and Faked Out and soaked damage/Thunderbolts with Clodsire.
-
-#### Gio 1
-| **Mine**    | **Role**            |
-| ----------- | ------------------- |
-| Starmie     | Nidoking            |
-| Raichu      | Honchkrow           |
-| Marowak - A | Kangaskhan/Orthworm |
-| Golisopod   | Veluza              |
-| Azumarill   | Infernape           |
-| Falinks     | Kangaskhan          |
-
-- Really screwed the pooch on this one. Misjudged a roll on Orthworm and let Infernape get behind a sub. My plan for Infernape was Azumarill, but I swapped in on a Pyro Ball and got burned. I'd have been fine if I had a Rawst berry. Then Aqua Tail + Aqua Jet didn't kill and it SD'd. I thought it'd go for Close Combat because I had a Wacan berry, but it went for Thunder Punch and killed Golisopod on the switch in. Then I went to Starmie, and swapped to Raichu to get a Fake Out/Thunderclap. For some reason, it hit a Close Combat instead of Thunder Punch and Raichu died.
-- Raichu isn't such a bad loss because I have a lot of Fake Out mons and Heliolisk to be a fast Electric type. However, Golisopod is a big loss. I do have Falinks for First Impression, but it's still rough.
-
-Anyways. On to the Angry Ghost. Plan is for Donphan/Sturdy Knock Off -> Gyarados with Aqua Fang/Intimidate. It's worked before.
-
-
-### 2026-01-10
-#### Angry Ghost
