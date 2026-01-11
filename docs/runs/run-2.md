@@ -1,6 +1,6 @@
 
-# 🟢 Run 2
-
+# 🏁 Run 2
+Finished - 2026-01-11
 
 ## Progress Tracker
 
@@ -60,7 +60,7 @@
 | Route 16         | Falinks         | Surge            |
 | Saffron City     | Egg - Cyndaquil | Erika            |
 | Rocket Hideout   | Sizzlipede - S  | Gio 1            |
-| Pokemon Tower    |                 | Rocket Double    |
+| Pokemon Tower    | Rotom           | Rocket Double    |
 | Route 17         |                 | Brenden - Safari |
 | Route 18         |                 | Brenden - Safari |
 | Fuschia City     |                 | Brenden - Safari |
@@ -80,7 +80,25 @@
 ## Progress Log
 
 ### 2026-01-11
+#### Notable Encounters
+- Rotom
+
+#### Silph Co Rival
+
+| **Mine**     | **Counters**        |
+| ------------ | ------------------- |
+| Krookodile   | Kingambit           |
+| Donphan      | Jumpluff            |
+| Arcanine - H | Staraptor/Charizard |
+| Politoed     | Charizard/Weather   |
+| Typhlosion   | Kingambit           |
+| Meganium     | Azumarill           |
+
+Wiped. He swapped around quite a bit, and I couldn't predict the Charizard properly. Lost Meganium to an Air Slash that I thought would be a Focus Blast on Donphan. Also realized I forgot to teach Meganium Giga Drain, which affected the Azumarill match up. We'll see how long it takes before I try this again. 
+
+### 2026-01-10
 #### Angry Ghost
+Handled it with Donphan/Knock Off, Gyarados, and Feraligatr. Gyarados would have done it, but got burned on the switch by Fire Punch. Feraligatr is a tank though and handled two Thunder Punches (with a Wacan Berry) and a Fire Punch.
 
 ### 2026-01-09
 #### Notable Encounters
