@@ -14,7 +14,7 @@ nav_order: X
 | ---------------: | :----: |
 |            Brock |   ✅    |
 |            Misty |   ✅    |
-|            Surge |   ❌    |
+|            Surge |   ✅    |
 |            Erika |   ❌    |
 |            Gio 1 |   ❌    |
 |            Gio 2 |   ❌    |
