@@ -81,22 +81,22 @@ nav_order: 3
 | Cerulean Cave    |               |      Clair       |
 | Victory Road     |               |        E4        |
 
-# Progress Log
+## Progress Log
 
-## 2026-01-20
-### Notable Encounters
-#### Pre-Surge
+### 2026-01-20
+#### Notable Encounters
+##### Pre-Surge
 - Just hatched eggs:
   - Espathra, Bouffalant, and Slowpoke - G
   - Learned I don't need them!
-#### Pre-Erika
+##### Pre-Erika
 - Vulpix-Alola on Route 5, big win.
 - Chespin from an egg on Route 9! Let's go!
 - Frillish in Vermillion!
 
-### Notable Fights
+#### Notable Fights
 
-#### Surge
+##### Surge
 | **Mine**     |     **Counters**     |
 | ------------ | :------------------: |
 | Clodsire     | Pincurchin/Bellibolt |
@@ -113,12 +113,12 @@ nav_order: 3
 - Ready to fight Erika
 
 
-### Things I learned
+#### Things I learned
 - Surge is free, can handle it before getting the rest of my encounters. Just need: Clodsire, Donphan, Rapidash-G, and Meganium.
 
-## 2026-01-21
-### Notable Fights
-#### Erika
+### 2026-01-21
+#### Notable Fights
+##### Erika
 | **Mine**     | **Counters**  |
 | ------------ | :-----------: |
 | Swellow      |   Meganium    |
@@ -133,7 +133,7 @@ nav_order: 3
 - Perrserker is a great Meowscarada counter. Lives two Knock-Offs and kills with Fake Out into Iron Head with Steely Spirit. Even if it doesn't, I kill with Bullet Punch.
 - Honestly thinking about resetting after this. Golisopod is just so good. But we carry on.
 
-#### Casino Grunt
+##### Casino Grunt
 | **Mine**    |    **Counters**     |
 | ----------- | :-----------------: |
 | Basculegion |  Hypno/Aerodactyl   |
@@ -145,7 +145,7 @@ nav_order: 3
 
 - A very clean fight. Aqua Jet and Bullet Punch for Aerodactyl, then Basulegion takes out Hypno with Phantom Force (thought it was Spirit Shackle, but it worked out fine). It actually worked better than fine, because I brought in Electivire while Obstagoon Sucker Punched Basculegion on the Phantom Force, and then Granbull came out alone, but couldn't beat Electivire and Perrserker through Fake Out and Bullet Punch.
 
-#### First Rocket Double
+##### First Rocket Double
 | **Mine**      |   **Counters**   |
 | ------------- | :--------------: |
 | Slowbro - G   |   Weezing - G    |
@@ -157,8 +157,8 @@ nav_order: 3
 
 - My messiest one in a while, but no losses. Slowbro - G doesn't get Protect? And forgot to teach it to my back up mons. Took out Weezing first turn as planned, but had to do a bunch of pivoting because Slowbro didn't have Protect. Thank goodness for Revavroom defense and Basculegion typing.
 
-#### Second Rocket Double
-#### Casino Grunt
+##### Second Rocket Double
+##### Casino Grunt
 | **Mine**     |       **Counters**       |
 | ------------ | :----------------------: |
 | Swellow      |    Shiftry/Toxicroak     |
@@ -170,13 +170,13 @@ nav_order: 3
 
 - My cleanest ever. Lightning Rod Raichu next to Swellow completely breaks this fight. Swellow takes out Shiftry with Dual Wingbeat while Talonflame is flinched with Fake Out. Then Swellow can take out Talonflame if Eelektross comes in, and on the following turn the Toxicroak. By this point, Eelektross has got a few hits in, so I swap to Slowbro and Clodsire to mop up. 
   
-### Things I learned
+#### Things I learned
 - Lightning Rod Raichu is great next to Swellow
 - I need to calc Erika every time. Can't rely on Palossand for Electrode. 
 - Next up Gio 1. I'll take a quick peruse and see if I can find a clean line, but it won't happen today.
 
-### Post Script
-#### Giovanni 1
+#### Post Script
+##### Giovanni 1
 | **Mine**      |   **Counters**   |
 | ------------- | :--------------: |
 | Ninetails - A |     Nidoking     |
@@ -188,7 +188,7 @@ nav_order: 3
 
 - This came together pretty quick and easy, so I ran it. Ninetails OKHO'd Nidoking with Blizzard, then Infernape came in. Hard swap to Fearow (risking a crit), but it paid off and got the KO with Dual Wingbeat. Orthworm came in, and I swapped to Basculegion on the Body press. Got some chip before the Shed Tail, then broke Kangaskhan's substitute with Flip Turn. Handled Kanga by swapping between Basculegion and Chesnaught, then Honchkrow came in on Chesnaught. Swapped to Raichu and took it out with Thunderbolt. Veluza came out and I had to do some more pivoting before taking it out with a Thunderbolt. Then it was just Orthworm, and a final Thunderbolt took it out.
 
-### Things I learned (again)
+#### Things I learned (again)
 - Chesnaught is the best counter for Kangaskhan
 - Orthworm's special defense is not great
 - I love Raichu for this fight
