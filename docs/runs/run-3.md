@@ -175,3 +175,16 @@ nav_order: X
 - Lightning Rod Raichu is great next to Swellow
 - I need to calc Erika every time. Can't rely on Palossand for Electrode. 
 - Next up Gio 1. I'll take a quick peruse and see if I can find a clean line, but it won't happen today.
+
+### Post Script
+#### Giovanni 1
+| **Mine**      |   **Counters**   |
+| ------------- | :--------------: |
+| Ninetails - A |     Nidoking     |
+| Raichu        | Veluza/Honchkrow |
+| Fearow        |    Infernape     |
+| Cinderace     |     Orthworm     |
+| Basculegion   |      Pivot       |
+| Chesnaught    |    Kangaskhan    |
+
+- This came together pretty quick and easy, so I ran it. Ninetails OKHO'd Nidoking with Blizzard, then Infernape came in. Hard swap to Fearow (risking a crit), but it paid off and got the KO with Dual Wingbeat. Orthworm came in, and I swapped to Basculegion on the Body press. Got some chip before the Shed Tail, then broke Kangaskhan's substitute with Flip Turn. Handled Kanga by swapping between Basculegion and Chesnaught, then Honchkrow came in on Chesnaught. Swapped to Raichu and took it out with Thunderbolt. Veluza came out and I had to do some more pivoting before taking it out with a Thunderbolt. Then it was just Orthworm, and a final Thunderbolt took it out.
