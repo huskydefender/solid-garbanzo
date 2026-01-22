@@ -188,3 +188,9 @@ nav_order: X
 | Chesnaught    |    Kangaskhan    |
 
 - This came together pretty quick and easy, so I ran it. Ninetails OKHO'd Nidoking with Blizzard, then Infernape came in. Hard swap to Fearow (risking a crit), but it paid off and got the KO with Dual Wingbeat. Orthworm came in, and I swapped to Basculegion on the Body press. Got some chip before the Shed Tail, then broke Kangaskhan's substitute with Flip Turn. Handled Kanga by swapping between Basculegion and Chesnaught, then Honchkrow came in on Chesnaught. Swapped to Raichu and took it out with Thunderbolt. Veluza came out and I had to do some more pivoting before taking it out with a Thunderbolt. Then it was just Orthworm, and a final Thunderbolt took it out.
+
+### Things I learned (again)
+- Chesnaught is the best counter for Kangaskhan
+- Orthworm's special defense is not great
+- I love Raichu for this fight
+- We're definitely done for the night now.
