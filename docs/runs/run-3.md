@@ -1,13 +1,12 @@
 ---
 type: progress
-title: Run X Journal - Standard
-nav_order: X
+title: Run 3 Journal - Standard
+nav_order: 3
 ---
 
 # Overview
 - Where did it start?
 - Any non-standard rules?
-- [Link to recap](run-x.md)
 
 ## Progress Tracker
 |            Split | Status |
