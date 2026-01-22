@@ -188,3 +188,5 @@ Anyways. On to the Angry Ghost. Plan is for Donphan/Sturdy Knock Off -> Gyarados
 - Regenerator on Slowbro - G is *great*.
 - On to the Hypno Double!
 
+### Review
+- Forgot to log where I wiped. Wiped to the Rival fight, because I didn't have my calcs right. Really dumb loss. 
