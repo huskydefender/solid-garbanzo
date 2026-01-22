@@ -1,6 +1,6 @@
 ---
 type: progress
-title: Run 3 Journal - Standard
+title: 🟢 Run 3
 nav_order: 3
 ---
 
