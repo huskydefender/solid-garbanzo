@@ -16,7 +16,7 @@ nav_order: 3
 |            Surge |   ✅    |
 |            Erika |   ✅    |
 |            Gio 1 |   ✅    |
-|            Gio 2 |   ❌    |
+|            Gio 2 |   ✅    |
 |          Sabrina |   ❌    |
 |        Rematches |   ❌    |
 | Brenden - Safari |   ❌    |
@@ -51,20 +51,21 @@ nav_order: 3
 | Route 6          | Basculin      |      Erika       |
 | Vermillion City  | Frillish      |      Erika       |
 | SS Anne          | Wimpod        |      Surge       |
-| Route 11         |               |      Erika       |
-| Diglett Cave     |               |      Erika       |
+| Route 11         | Grookey       |      Erika       |
+| Diglett Cave     | Sandile       |      Erika       |
 | Route 9          | Chespin       |      Erika       |
 | Route 10         |               |      Surge       |
 | Rock Tunnel      | Rhyhorn       |      Erika       |
-| Lavender Town    | Litten        |      Erika       |
-| Route 12         |               |      Erika       |
-| Route 8          |               |      Erika       |
-| Route 7          |               |      Erika       |
+| Lavender Town    | Scorbunny     |      Erika       |
+| Route 12         | Sealeo        |      Erika       |
+| Route 8          | Froakie       |      Erika       |
+| Route 7          | Rowlet        |      Erika       |
 | Celadon City     |               |  Kanto Rematch   |
 | Route 16         |               |      Surge       |
-| Saffron City     | Scorbunny     |      Erika       |
+| Saffron City     | Litten        |      Erika       |
 | Rocket Hideout   | *Sevii Egg*   |      Gio 1       |
 | Pokemon Tower    |               |  Rocket Double   |
+| Silph Co         | Fenniken      |  Rocket Double   |
 | Route 17         |               | Brenden - Safari |
 | Route 18         |               | Brenden - Safari |
 | Fuschia City     |               | Brenden - Safari |
@@ -193,3 +194,52 @@ nav_order: 3
 - Orthworm's special defense is not great
 - I love Raichu for this fight
 - We're definitely done for the night now.
+
+### 2026-01-22
+#### Notable Encounters
+- Hatched a few eggs, and got Rillaboom, Greninja, Delphox, and Decidueye.
+- 
+#### Notable Fights
+##### Angry Ghost
+- Free with Donphan and Gyarados as long as I don't get crit
+
+##### Silph Rival
+| **Mine**      | **Counters** |
+| ------------- | :----------: |
+| Ninetails - A |   Weather    |
+| Raichu        |  Staraptor   |
+| Meganium      |  Azumarill   |
+| Donphan       |   Jumpluff   |
+| Bouffalant    |  Charizard   |
+| Chesnaught    |  Kingambit   |
+
+- Mostly clean, but a few messy switches. Charizard came straight in after Staraptor, and I didn't manage to get Boufallant in cleanly. I hit a Volt Switch with Raichu, which chipped Charizard too much. When Bouffalant came in, Charizard swapped, which meant I needed to swap again and ended up needing to sack Bouffalant to get Raichu back in safely and KO Charizard. Everything was fine after that. The weather not going up until after Charizard goes Mega really throws me off. 
+
+##### Silph Double
+| **Mine**   |   **Counters**    |
+| ---------- | :---------------: |
+| Jellicent  | Water Spout Spam  |
+| Greninja   | Protean/Houndoom  |
+| Chesnaught | Dark/Water resist |
+
+- Somehow a deathless win! They went after Masquerain first, so Jellicent got away pretty free. Also got a clutch crit on Primarina. Sending in Greninja allowed me to pivot around a bit and Brenden took out Mawile with Exploud. 
+- Overall, a decent strategy, but room for improvement. Not sure how it would have gone if I didn't get that early crit, or if Brenden decided to focus on Goldengho vs Primarina and Mawile. I also got the right baits for when I used Protect, because Archer and Ariana both double hit into Protect (once with Jellicent and the other with Greninja)
+- On to Giovanni 2!
+
+##### Giovanni 2
+| **Mine**      |  **Counters**   |
+| ------------- | :-------------: |
+| Jellicent     | Pivot/Hippowdon |
+| Chesnaught    |   Kangaskhan    |
+| Meganium      |    Garganacl    |
+| Donphan       |    Excadrill    |
+| Ninetails - A |    Torterra     |
+| Walrein       |    Garchomp     |
+
+- Well that went pretty much exactly according to plan. Each counter worked perfectly, and I only had to risk a crit on Ninetails after Torterra Shell Smashed. Granted, if it had rolled the crit, I'm not sure what I would have done. Definitely would have lost multiple mons. But it worked so we roll!
+
+#### Things I learned
+- Jellicent is a great lead on Gio 2, and with a little luck, trivializes the Rocket Double. I'm lucky enough to have multiple weather setters and I'm definitely going to have to make use of them. 
+- Donphan is great for Excadrill, takes anything after a Swords Dance, and can KO with Bulldoze into Ice Shard.
+- Need to work on my counters for Charizard. Bouffalant was disposable, but it would have been nice not to need it. More thought about resetting weather *after* Charizard sets it. Ideally, I need to predictably bait a move, then swap in something that can take it before sending my weather setter. I'll think more on that next time.
+- On to Sabrina! Should be pretty free with Water Spout Jellicent in the rain. Just need to remember to send something that can KO Brute Bonnet and KO or Taunt Porygon2.
