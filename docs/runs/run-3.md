@@ -17,9 +17,9 @@ nav_order: 3
 |            Erika |   ✅    |
 |            Gio 1 |   ✅    |
 |            Gio 2 |   ✅    |
-|          Sabrina |   ❌    |
+|          Sabrina |   ✅    |
 |        Rematches |   ❌    |
-| Brenden - Safari |   ❌    |
+| Brenden - Safari |   ✅    |
 |             Koga |   ❌    |
 |   May - Cinnabar |   ❌    |
 |           Blaine |   ❌    |
@@ -60,15 +60,15 @@ nav_order: 3
 | Route 12         | Sealeo        |      Erika       |
 | Route 8          | Froakie       |      Erika       |
 | Route 7          | Rowlet        |      Erika       |
-| Celadon City     |               |  Kanto Rematch   |
-| Route 16         |               |      Surge       |
+| Celadon City     | Dreepy        |  Kanto Rematch   |
+| Route 16         | Cufant        |      Surge       |
 | Saffron City     | Litten        |      Erika       |
 | Rocket Hideout   | *Sevii Egg*   |      Gio 1       |
 | Pokemon Tower    |               |  Rocket Double   |
 | Silph Co         | Fenniken      |  Rocket Double   |
-| Route 17         |               | Brenden - Safari |
-| Route 18         |               | Brenden - Safari |
-| Fuschia City     |               | Brenden - Safari |
+| Route 17         | Torkoal       | Brenden - Safari |
+| Route 18         | Altaria       | Brenden - Safari |
+| Fuschia City     | Dhelmise - S  | Brenden - Safari |
 | Safari Zone      |               |  Kanto Rematch   |
 | Route 15         |               | Brenden - Safari |
 | Route 14         |               | Brenden - Safari |
@@ -243,3 +243,112 @@ nav_order: 3
 - Donphan is great for Excadrill, takes anything after a Swords Dance, and can KO with Bulldoze into Ice Shard.
 - Need to work on my counters for Charizard. Bouffalant was disposable, but it would have been nice not to need it. More thought about resetting weather *after* Charizard sets it. Ideally, I need to predictably bait a move, then swap in something that can take it before sending my weather setter. I'll think more on that next time.
 - On to Sabrina! Should be pretty free with Water Spout Jellicent in the rain. Just need to remember to send something that can KO Brute Bonnet and KO or Taunt Porygon2.
+
+### 2026-01-23
+#### Notable Encounters
+- Torkoal on Route 17
+- Dhelmise - Sevii hatched in Fuschia
+
+
+#### Notable Fights
+##### Sabrina
+| **Mine**   |        **Counters**        |
+| ---------- | :------------------------: |
+| Jellicent  | Pretty much the whole team |
+| Politoed   |            Rain            |
+| Cinderace  |        Brute Bonnet        |
+| Chesnaught |          Porygon2          |
+
+- I don't even remember what the last 2 mons were. I didn't need them. Jellicent pretty much swept. Politoed swapped to Cinderace on turn 1, so that when Brute Bonnet came out, U-turn immediately killed it while Water Spout KO'd Gardvoir. Went back to Politoed and Scald + Water Spout took out Ursaluna and Porygon. 3 turns, no damage. Textbook for when I have the rain.
+
+##### Cycling Road Back-to-Back-to-Back
+- I don't even remember the team. Led with Politoed for the rain, swapped to Dragapult to catch the Fake Out from Mienshao then swept. Similar situation on battle 2, pivot to Dragapult KO. Then the last fight Politoed got a burn from Scald on Turn 1, so Hariyama was useless. Politoed took the rest of that fight.
+
+##### Sand Route Biker 1
+| **Mine**   |    **Counters**    |
+| ---------- | :----------------: |
+| Dragapult  |      Accelgor      |
+| Jellicent  |      Gigalith      |
+| Swellow    |     Houndstone     |
+| Electivire |      Roserade      |
+| Politoed   | Weather/Houndstone |
+| Meganium   |       Bonus        |
+
+- All according to plan. Dragapult KO's Accelgor, Houndstone comes in, I send out Swellow on the Last Respects, hit a Return, then pivot to Politoed after an Ice Fang. Politoed KO's with Scald, then Roserade comes out. Swap to Electivire and 2 Fire Punches KO. Lastly, Gigalith and Jellicent takes it with a Water Spout.
+
+##### Sand Route Biker 2
+| **Mine**   | **Counters** |
+| ---------- | :----------: |
+| Meganium   |   Swampert   |
+| Palossand  |  Revavroom   |
+| Incineroar |   Cacturne   |
+| Delphox    |    Scizor    |
+
+- All counters worked perfectly. No issues with pivoting either, because Revavroom missed Gunk Shot on the swap, then Cacturne just hit Incineroar with a Needle Arm after Intimidate. U-turned out to Delphox and when Scizor came in, took it out with Flamethrower
+
+##### Sand Route Biker 3
+| **Mine**   |        **Counters**         |
+| ---------- | :-------------------------: |
+| Greninja   |          Stunfisk           |
+| Dragapult  |          Beedrill           |
+| Meganium   | Greninja/Stunfisk/Dracovish |
+| Dragapult  |            Aron             |
+| Electivire |          Greninja           |
+| Swellow    |          Beedrill           |
+
+- Didn't go quite exactly to plan, because Greninja missed Water Shruiken after Taunting Stunfisk. So after a bunch of swapping, Stunfisk came in on Meganium and got Rocks up. This just meant I couldn't use Swellow for Beedrill, but turns out Dragapult out-speeds and OKHOs anyway. So no harm done. Dragapult also walls Aron, and Electivire cleaned up Greninja. Easy clap.
+
+##### Rain Route 1
+| **Mine**      | **Counters** |
+| ------------- | :----------: |
+| Chesnaught    |  Magnezone   |
+| Raichu        |   Starmie    |
+| Ninetails - A |  Salamence   |
+| Meganium      |   Whiscash   |
+| Zebstrika - S |  Salamence   |
+| Dragapult     |    Pivot     |
+
+- Trivial. Chesnaught caught an Explosion from Magnezone, then Salamence came out. I swapped to Timid/Wise Glasses Sevii Zebstrika and swept with Ice Beam and Freeze Dry.
+
+##### Rain Route 2
+| **Mine**      | **Counters** |
+| ------------- | :----------: |
+| Raichu        |  Cramorant   |
+| Zebstrika - S |   Mantine    |
+| Ninetales - A |  Decidueye   |
+| Palossand     |  Nidoqueen   |
+| Swellow       |  Decidueye   |
+| Dragapult     |    Extra     |
+
+- Well Raichu didn't take out the Cramorant, it went Roost instead of Surf on Turn 2, so Raichu got nailed second turn. Just swapped to Ninetales to hit Ice Shard for KO. Mantine came out next and got blasted by Freeze Dry, then Nidoqueen was last. Swapped to Palossand, hit an Earth Power, then flipped to Dragapult to finish.
+
+##### Rain Route 4
+- Skipped Dragon Tamer Ramiro, but have to do 2 and 4 back to back. Definitely worth it.
+
+| **Mine**      |     **Counters**      |
+| ------------- | :-------------------: |
+| Dragapult     | Dragapult/Kilowattrel |
+| Meganium      |        Omastar        |
+| Walrein       |        Pinsir         |
+| Raichu        |         Vibes         |
+| Zebstrika - S |         Vibes         |
+| Ninetales - A |         Vibes         |
+
+- Dragapult trivializes this fight. Plus the ultimate counter to Shell Smash Omastar: Triage Meganium. Finally Fur Coat Walrein to stonewall Pinsir and Ice Beam to victory.
+
+
+##### Brenden - Fuschia City
+| **Mine**     | **Counters** |
+| ------------ | :----------: |
+| Delphox      |  Metagross   |
+| Meganium     |   Medicham   |
+| Donphan      |   Sceptile   |
+| Dragapult    |   Exploud    |
+| Copperajah    |  Gardevoir   |
+| Dhelmise - S |  Crawdawnt   |
+
+- THese counters almost all worked perfectly, except Meganium took out Sceptile and Medicham. It also did Crawdawnt. Copperajah cleaned up Gardevoir, despite me not leveling it up to the right level (it was at 56 instead of 68). Thankfully the elephant has bulk. And a Chople Berry. All in all, about as perfect as could be.
+
+#### What I learned
+- This section of this run was extremely clean. I usually lose stuff on either the weather route or Brendan, just from poor planning and being tired. 
+- This section doesn't really need weather modification with the box I have here. Stars have been Dragapult (obviously), Meganium (lots of favorable match ups here), Walrein (key physical wall), and Zebstrika of all things. The last two have helpful typing, good speed or bulk and enough power to go 1 v 1 against the right match up.
