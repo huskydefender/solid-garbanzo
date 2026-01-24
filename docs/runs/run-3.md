@@ -5,8 +5,7 @@ nav_order: 3
 ---
 
 # Overview
-- Where did it start?
-- Any non-standard rules?
+- Started this run from the snapshot before Surge.
 
 ## Progress Tracker
 |            Split | Status |
