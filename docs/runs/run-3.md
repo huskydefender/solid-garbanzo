@@ -17,10 +17,10 @@ nav_order: 3
 |            Gio 1 |   ✅    |
 |            Gio 2 |   ✅    |
 |          Sabrina |   ✅    |
-|        Rematches |   ❌    |
+|        Rematches |   ✅    |
 | Brenden - Safari |   ✅    |
-|             Koga |   ❌    |
-|   May - Cinnabar |   ❌    |
+|             Koga |   ✅    |
+|   May - Cinnabar |   ✅    |
 |           Blaine |   ❌    |
 |            Gio 3 |   ❌    |
 |           Claire |   ❌    |
@@ -53,7 +53,7 @@ nav_order: 3
 | Route 11         | Grookey       |      Erika       |
 | Diglett Cave     | Sandile       |      Erika       |
 | Route 9          | Chespin       |      Erika       |
-| Route 10         |               |      Surge       |
+| Route 10         | Whiscash      |      Surge       |
 | Rock Tunnel      | Rhyhorn       |      Erika       |
 | Lavender Town    | Scorbunny     |      Erika       |
 | Route 12         | Sealeo        |      Erika       |
@@ -63,21 +63,21 @@ nav_order: 3
 | Route 16         | Cufant        |      Surge       |
 | Saffron City     | Litten        |      Erika       |
 | Rocket Hideout   | *Sevii Egg*   |      Gio 1       |
-| Pokemon Tower    |               |  Rocket Double   |
+| Pokemon Tower    | Polteageist   |  Rocket Double   |
 | Silph Co         | Fenniken      |  Rocket Double   |
 | Route 17         | Torkoal       | Brenden - Safari |
 | Route 18         | Altaria       | Brenden - Safari |
 | Fuschia City     | Dhelmise - S  | Brenden - Safari |
-| Safari Zone      |               |  Kanto Rematch   |
-| Route 15         |               | Brenden - Safari |
-| Route 14         |               | Brenden - Safari |
-| Route 13         |               | Brenden - Safari |
-| Route 19         |               |  May - Cinnabar  |
-| Route 20         |               |  May - Cinnabar  |
-| Seafoam Cave     |               |  May - Cinnabar  |
-| Power Plant      |               |  May - Cinnabar  |
-| Pokemon Mansion  |               |  May - Cinnabar  |
+| Safari Zone      | Iron Hands    |  Kanto Rematch   |
+| Route 15         | Tepig         | Brenden - Safari |
+| Route 14         | Fuecoco       | Brenden - Safari |
+| Route 13         | Pyroar - F    | Brenden - Safari |
+| Route 19         | Seadra        |  May - Cinnabar  |
+| Route 20         | Clawitzer     |  May - Cinnabar  |
+| Seafoam Cave     | Keldeo        |  May - Cinnabar  |
+| Power Plant      | Zapdos        |  May - Cinnabar  |
 | Cinnabar Island  |               |  May - Cinnabar  |
+| Pokemon Mansion  | Garbodor      |      Blaine      |
 | Cerulean Cave    |               |      Clair       |
 | Victory Road     |               |        E4        |
 
@@ -343,7 +343,7 @@ nav_order: 3
 | Meganium     |   Medicham   |
 | Donphan      |   Sceptile   |
 | Dragapult    |   Exploud    |
-| Copperajah    |  Gardevoir   |
+| Copperajah   |  Gardevoir   |
 | Dhelmise - S |  Crawdawnt   |
 
 - THese counters almost all worked perfectly, except Meganium took out Sceptile and Medicham. It also did Crawdawnt. Copperajah cleaned up Gardevoir, despite me not leveling it up to the right level (it was at 56 instead of 68). Thankfully the elephant has bulk. And a Chople Berry. All in all, about as perfect as could be.
@@ -351,3 +351,84 @@ nav_order: 3
 #### What I learned
 - This section of this run was extremely clean. I usually lose stuff on either the weather route or Brendan, just from poor planning and being tired. 
 - This section doesn't really need weather modification with the box I have here. Stars have been Dragapult (obviously), Meganium (lots of favorable match ups here), Walrein (key physical wall), and Zebstrika of all things. The last two have helpful typing, good speed or bulk and enough power to go 1 v 1 against the right match up.
+
+
+### 2026-01-25 Updates
+#### Notable Encounters
+
+#### Notable Fights
+##### Brock - Rematch
+| **Mine**      | **Counters**  |
+| ------------- | :-----------: |
+| Ninetails - A |  Great Tusk   |
+| Meganium      |    Omastar    |
+| Rhydon        | Arcanine - H  |
+| Chesnaught    |   Tyranitar   |
+| Politoed      | Ursaluna - BM |
+| Walrein       |  Aerodactyl   |
+
+- Biggest issue here is I didn't account for Ursaluna properly. I brought extra weather, but it meant Meganium was my only real specially bulky mon. Meganium took it out, but now has too little health to swap into Omastar. Had to sack Rhydon on a Meteor Beam to get Meganium in to finish it off. Might have also done okay if Politoed had priority.
+
+##### Misty - Rematch
+| **Mine**      | **Counters** |
+| ------------- | :----------: |
+| Jellicent     |   Palafin    |
+| Ninetails - A |   Kingdra    |
+| Palossand     |  Archaludon  |
+| Chesnaught    |   Gyarados   |
+| Torkoal       |  Ferrothorn  |
+| Revavroom     |   Gorebyss   |
+
+- Everything but one went according to plan. I couldn't find a way to switch Palossand in on Archaludon, but it turns out it never clicks Electroshot anyway. I was able to handle it safely with Jellicent since Palafin was already down. Yay Leftovers and Protect! Everyone else completely walled their counter.
+
+### 2026-01-27 Updates
+#### Notable Encounters
+- Keldeo - Seafoam Caves
+- Zapdos - Power Plant
+- Polteageist - Pokemon Tower
+
+
+#### Notable Fights
+##### Surge - Rematch
+| **Mine**  | **Counters** |
+| --------- | :----------: |
+| Cinderace | Iron Treads  |
+| Clodsire  |  Bellibolt   |
+| Meganium  |  Rotom - W   |
+| Palossand |    Pawmot    |
+| Altaria   |  Iron Hands  |
+| Donphan   |  Manectric   |
+
+- Well this sucked. Lost Cinderace because I forgot to account for the Defense boost on Iron Treads so Fire Fang didn't 2HKO after Taunt. Also lost Palossand because I got crit with Ice Punch after missing a double Protect. Also because my entire team (except for Cinderace), was weak to Ice and so I had to swap in on Ice moves all the time. If everyone didn't have Yache berries, I would have wiped for sure. 
+- Other than that, Donphan wrecked Manectric, Clodsire walled Bellibolt while setting up Toxic Spikes, and Meganium trashed Rotom, and cleaned up Iron Treads after Cinderace went down.
+
+##### Koga
+| **Mine**   | **Counters** |
+| ---------- | :----------: |
+| Raichu     |   Swellow    |
+| Jellicent  |   Accelgor   |
+| Meganium   |   Greninja   |
+| Perrserker |   Drapion    |
+| Revavroom  | Iron Valiant |
+| Donphan    |  Toxtricity  |
+
+- Pretty clean. Key here was just having Chilan on Donphan to live a Boomburst. There's a bunch of easy pivots in this fight. Steel, Ghost, Flying, lots of immunity potential here.
+
+##### May - Cinnabar
+| **Mine**      | **Counters** |
+| ------------- | :----------: |
+| Donphan       |   Solrock    |
+| Swellow       |   Breloom    |
+| Clodsire      |  Manectric   |
+| Ninetales - A |    Flygon    |
+| Rillaboom     |  Relicanth   |
+| Jellicent     |   Blaziken   |
+
+- There's a weird asterisk with this one. I went into it, and Donphan got crit by Explosion after Stealth Rocks went up. But then when Flygon came out and I went into Ninetales, I got outsped, because I didn't set my Nature right. This isn't something folks would usually clause, but I do. I want to get better at the actual battling, and I want to see if my plans work, so I'm generous with myself. 
+- However, when I went back, Solrock exploded from the jump. No rocks. Plus Donphan didn't go down. Other than that, the battle went according to plan, although I didn't end up using Clodsire for Manectric, because it was the last mon out, so it went Choice Scarf Overheat. I used Jellicent to soak it up and KO with Scald. Also realized I never reset the ability there to Water Bubble. It ended up working out okay, but I claused it again for consistency's sake.
+- Final version went without a hitch as well. Rapid Spin first, then Solrock went boom. All other matchups went exactly according to plan. Maybe in the future I'll be more strict on prep verification, but I don't have the time or energy for that for now.
+
+#### Things I learned
+- Double check calcs on Surge. Iron Treads is a pain, but Iron Hands can be checked by Meganium
+- Koga is easy with Donphan
+- Jellicent checks Mega-Blaziken, key to this fight is Solrock. Donphan is the best I've found for that so far.
